@@ -1,0 +1,1 @@
+Yes, the 'Summer' repository was created with an initial README file.
